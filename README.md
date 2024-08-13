@@ -1,2 +1,2 @@
 # YippeeVirus
-Intended for educational and entertainment purposes only.
+Not actually made to be shared as a real virus
